@@ -1,0 +1,26 @@
+
+2 Fundametação teórica
+LPwan
+Lora
+zigfox
+nbiot
+blockchain
+smart energy
+
+Utilização de blockchain e tecnologias LPwan em sistemas de energia inteligente
+Implementação
+
+Objetivos específicos:
+
+Implementar uma blockchain
+
+Marco energia elétrica: consulta pública 
+Consulta Pública 033/17-MME
+
+colocar à introdução: discussão no Brasil, novas formas de geração distribuída, anteprojeto, pessoas físicas, região remota
+
+
+resultado esperado: simulação funcionando e compreensão 
+
+Espera-se ao final desse trabalho que seja possível identificar as potencialidades, as limitações, desafios e abrangência do uso das tecnologias blockchain e LPWAN no mercado de comercialização e gerenciamento de geração de energia
+

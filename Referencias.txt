@@ -1,0 +1,105 @@
+[1] Lei: 
+
+BRASIL. Decreto nº 5.163, de 30 de junho de 2020. Regulamenta a comercialização de energia elétrica, o processo de outorga de concessões e de autorizações de geração de energia elétrica, e dá outras providências. Brasília, 30 jul. 2004.
+
+(BRASIL, 2004)
+
+------------------------------------------------------
+Site matriz energética
+
+MINISTÉRIO DE MINAS E ENERGIA (Brasil). Empresa de Pesquisa Energética. Matriz Energética e Elétrica. In: Matriz Energética e Elétrica. [S. l.], 1 jan. 2020. Disponível em: https://www.epe.gov.br/pt/abcdenergia/matriz-energetica-e-eletrica. Acesso em: 24 jun. 2020.
+
+(MINISTÉRIO DE MINAS E ENERGIA, 2020)
+
+------------------------------------------------------------
+
+
+Hidroelétricas
+
+BAGHER, Askari Mohammad et al. Hydroelectric Energy Advantages and Disadvantages. American Journal of Energy Science, [S. l.], v. 2, 20 abr. 2015. 2, p. 17-20. Disponível em: https://www.researchgate.net/profile/Vahid_Mirzaei_Mahmoud_Abadi2/publication/275094706_Hydroelectric_Energy_Advantages_and_Disadvantages/links/5e48e070458515072da0b71f/Hydroelectric-Energy-Advantages-and-Disadvantages.pdf. Acesso em: 24 jun. 2020.
+
+(BAGHER, 2015)
+
+---------------------------------------------------------------
+
+
+Hidroelétricas poluentes
+
+DUCHEMIN, E. et al. Production of the greenhouse gases CH4 and CO2, by hydroelectric reservoirs of the boreal region. Global Biogeochemical Cycles, [S. l.], p. 529-540, 1 dez. 1995. Disponível em: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/95GB02202. Acesso em: 24 jun. 2020
+
+
+(DUCHEMIN, 1995)
+
+------------------------------------------------------------
+
+
+[2] Microgrid
+
+JIAYI, Huang; CHUANWEN, Jiang; RONG, Xu. A review on distributed energy resources and MicroGrid. Renewable and Sustainable Energy Reviews, Shangai, v. 12, p. 2473-2482, 20 jun. 2007.
+
+(JIAYI, 2007)
+
+------------------------------------------------------
+
+[3] Minimizando perda energia
+
+OCHOA, Luis F.; HARRISON, Gareth P. Minimizing Energy Losses: Optimal Accomodation and Smart Operation of Renewable Distributed Generation. IEEE Transactions on Power Systems, Edinburg, p. 198-205, 24 maio 2010.
+
+(OCHOA, 2010)
+
+---------------------------------------------------------
+
+[4] Overview Blockchain
+
+IEEE INTERNATIONAL CONGRESS ON BIG DATA, 2017, Honolulu, HI, EUA. An Overview of Blockchain Technology: Architecture, Consensus, and Future Trends [...]. Honolulu, EUA: [s. n.], 2017.
+
+(IEEE INTERNATIONAL CONGRESS ON BIG DATA, 2017)
+
+------------------------------------------------------------
+
+[5] Biticoin e Blockchain
+
+NAKAMOTO, Satoshi. Bitcoin: A Peer-to-Peer Electronic Cash System. In: NAKAMOTO, Satoshi. Bitcoin: A Peer-to-Peer Electronic Cash System. [S. l.], 31 out. 2008. Disponível em: https://bitcoin.org/bitcoin.pdf. Acesso em: 22 jun. 2020.
+
+(NAKAMOTO, 2008)
+
+----------------------------------------------------------------
+
+[6] Blockchain: Funcionamento
+
+PUTHAL, Deepak et al. The Blockchain as a Decentralized Security Framework [Future Directions]. IEEE Consumer Electronics Magazine, [S. l.], p. 18-21, 18 fev. 2018.
+
+(PUTHAL, 2018)
+
+
+---------------------------------------------------------------
+[7] Hassan, texto do Noronha
+
+HASSAN, Naveed UI et al. Blockchain Technologies for Smart Energy Systems: Fundamentals, Challenges, and Solutions. IEEE Industrial Electronics Magazine, [s. l.], v. 13, 23 dez. 2019.
+
+(HASSAN et al., 2019)
+
+--------------------------------------------------------------------
+
+[8] Smart Grid: Integração
+
+FALCÃO, Djalma M. Integração de Tecnologias para Viabilização da Smart Grid. III Simpósio Brasileiro de Sistemas Elétricos, Belém, Pará, p. 1-5, 18 maio 2010.
+
+(FALCÃO, 2010)
+
+--------------------------------------------------------------------
+
+[8] LPwan
+
+RAZA, Usman et al. Low Power Wide Area Networks: An Overview. IEEE Communications Surveys & Tutorials, [S. l.], v. 19, p. 855-873, 17 jan. 2017.
+
+(RAZA, 2017)
+
+-------------------------------------------------------------------
+
+Inspiração pro trabalho: Chinês
+
+2019 16TH INTERNATIONAL JOINT CONFERENCE ON COMPUTER SCIENCE AND SOFTWARE ENGINEERING (JCSSE), 2019, Chonburi, Thailand, Thailand. Development of Reliable Wireless Communication System for Secure Blockchain-based Energy Trading [...]. [S. l.: s. n.], 2019.
+
+(JCSSE, 2019)
+
